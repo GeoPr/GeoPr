@@ -9,6 +9,8 @@
 I have been learning to code for 2 years. The first time when I was 14 y.o I tried to learn Python but quickly got that I didn't enjoy it. After this incident, I started learning web development and after six months got my first freelance order. During this time, I didn't spend a single ruble on any courses or something like that, and my way of learning was trial and error, watching videos and read articles. Now I feel comfortable with developing and enjoy every line of code. I've been learning React for the past four months and now I'm sure that ready to get a job. What about the future, I think or at least hope to become a senior front-end developer in 2-3 years.  
 Thanks for reading. I hope you weren't completely bored.
 
+---
+
 ### 🤝 Contact:
 
 [<img align="left" alt="VK" width="30px" height="30px" src="https://github.com/GeoPr/GeoPr/blob/main/assets/telegram.svg" />](https://t.me/GeoPrWeb) [<img align="left" width="30px" height="30px" alt="VK" src="https://github.com/GeoPr/GeoPr/blob/main/assets/vk.svg" />](https://vk.com/id262148658)
