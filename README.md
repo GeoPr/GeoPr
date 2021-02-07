@@ -37,6 +37,8 @@ Thanks for reading. I hope you weren't completely bored.
 
 ### 📄 Last projects:
 
+---
+
 - [Team picker](https://team-picker-95e36.web.app/)
 - [Find a country](https://countries-app-e4b6f.web.app/)
 - [Trello clone](https://trello-clone-37842.web.app/)
