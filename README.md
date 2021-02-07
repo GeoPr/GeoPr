@@ -37,9 +37,9 @@ Thanks for reading. I hope you weren't completely bored.
 
 ### 📄 Last projects:
 
+- [Team picker](https://team-picker-95e36.web.app/)
 - [Find a country](https://countries-app-e4b6f.web.app/)
 - [Trello clone](https://trello-clone-37842.web.app/)
 - [Some animations](https://some-animations-app.web.app/)
 - [Ecommerce](https://react-ecommerce-a7923.web.app/)
 - [Pomodoro](https://pomodoro-app-7b744.web.app/)
-<!-- - [Team picker](https://team-picker-a5a5b.web.app/) -->
