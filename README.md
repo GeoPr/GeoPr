@@ -1,8 +1,10 @@
 <img src="https://github.com/GeoPr/GeoPr/blob/main/assets/text.png" width="100%" />
 
-# Welcome here. Hope u`ll enjoy me 😉
+# Nice to see u here 👋
 
 ## 👨🏻‍💻 I am a self-taught front-end developer.
+
+
 
 ### 📘 A short story about me (U can skip)
 
@@ -20,8 +22,7 @@ Thanks for reading. I hope you weren't completely bored.
 
 ### 💻 Tech Stack:
 
-![HTML](https://img.shields.io/badge/-HTML-232332?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-CSS-232332?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/-SCSS-232332?style=for-the-badge&logo=SASS) ![JavaScript](https://img.shields.io/badge/-JavaScript-232332?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-232332?style=for-the-badge&logo=TypeScript&logoColor=007ACC) ![React](https://img.shields.io/badge/-React-232332?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-232332?style=for-the-badge&logo=redux) ![GraphQL](https://img.shields.io/badge/-GraphQL-232332?style=for-the-badge&logo=graphql&logoColor=E10098) ![Jest](https://img.shields.io/badge/-Jest-232332?style=for-the-badge&logo=Jest&logoColor=C21325) ![Markdown](https://img.shields.io/badge/-Markdown-232332?style=for-the-badge&logo=markdown) ![MobX](https://img.shields.io/badge/-MobX-232332?style=for-the-badge) ![Styled Components](https://img.shields.io/badge/-Styled%20Components-232332?style=for-the-badge) ![BEM Naming](https://img.shields.io/badge/-BEM%20Naming-232332?style=for-the-badge)
-
+![HTML](https://img.shields.io/badge/-HTML-232332?style=for-the-badge&logo=HTML5&logoColor=E34F26) ![CSS](https://img.shields.io/badge/-CSS-232332?style=for-the-badge&logo=CSS3&logoColor=1572B6) ![SASS](https://img.shields.io/badge/-SCSS-232332?style=for-the-badge&logo=SASS) ![JavaScript](https://img.shields.io/badge/-JavaScript-232332?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-232332?style=for-the-badge&logo=TypeScript&logoColor=007ACC) ![React](https://img.shields.io/badge/-React-232332?style=for-the-badge&logo=react) ![Redux](https://img.shields.io/badge/-Redux-232332?style=for-the-badge&logo=redux) ![GraphQL](https://img.shields.io/badge/-GraphQL-232332?style=for-the-badge&logo=graphql&logoColor=E10098) ![Jest](https://img.shields.io/badge/-Jest-232332?style=for-the-badge&logo=Jest&logoColor=C21325) ![Markdown](https://img.shields.io/badge/-Markdown-232332?style=for-the-badge&logo=markdown) ![Material UI](https://img.shields.io/badge/-Material%20UI-232332?style=for-the-badge&logo=Material-UI) ![Styled Components](https://img.shields.io/badge/-💅%20Styled%20Components-232332?style=for-the-badge) ![MobX](https://img.shields.io/badge/-MobX-232332?style=for-the-badge) ![BEM Naming](https://img.shields.io/badge/-BEM%20Naming-232332?style=for-the-badge) 
 ---
 
 ### 🛠 Tools:
