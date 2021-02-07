@@ -4,8 +4,6 @@
 
 ## 👨🏻‍💻 I am a self-taught front-end developer.
 
-
-
 ### 📘 A short story about me (U can skip)
 
 I have been learning to code for 2 years. The first time when I was 14 y.o I tried to learn Python but quickly got that I didn't enjoy it. After this incident, I started learning web development and after six months got my first freelance order. During this time, I didn't spend a single ruble on any courses or something like that, and my way of learning was trial and error, watching videos and read articles. Now I feel comfortable with developing and enjoy every line of code. I've been learning React for the past four months and now I'm sure that ready to get a job. What about the future, I think or at least hope to become a senior front-end developer in 2-3 years.  
@@ -35,4 +33,3 @@ Thanks for reading. I hope you weren't completely bored.
 
 - 1 year of freelance
 - 2 years of learning
-- about 6-7 years of teamwork (volleyball / football team)
